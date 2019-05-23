@@ -1,0 +1,13 @@
+.user-foto {
+    width: 30%;
+    float: left;
+}
+
+.user-info {
+    width: 70%;
+    float: left;
+}
+
+.user-info .content {
+    padding: 10px 0px 10px 10px;
+}
